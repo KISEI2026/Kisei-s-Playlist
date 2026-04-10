@@ -50,6 +50,7 @@ export async function onRequestGet(context) {
       roomId: String(roomInfo.room_id || roomId),
       href: BILIBILI_LIVE_URL + String(roomInfo.room_id || roomId),
       cover: roomInfo.cover || "",
+      coverProxyUrl: "/api/live-cover-image?roomId=" + encodeURIComponent(roomId),
       title: roomInfo.title || "",
       liveStatus: roomInfo.live_status ?? null,
       anchorName: anchorBase.uname || "",

@@ -905,7 +905,7 @@
 
           const payload = await response.json();
           const liveData = (payload && payload.data) || {};
-          const imageUrl = liveData.cover || "";
+          const imageUrl = liveData.coverProxyUrl || liveData.cover || "";
           const imageAlt =
             config.imageAlt ||
             liveData.title ||
