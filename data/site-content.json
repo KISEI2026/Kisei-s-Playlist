@@ -2,12 +2,12 @@
   "site": {
     "meta": {
       "title": "Kisei's Playlist",
-      "description": "一个适合部署到 GitHub Pages 或 Cloudflare Pages 的静态歌单展示页，页面内容从独立 JSON 文件读取。"
+      "description": "这是一个不在上层显示的描述"
     },
     "hero": {
       "eyebrow": "",
       "titleLines": ["Kisei's", "Playlist"],
-      "description": "这个版本保留了拼贴纹样和卡片式信息布局，同时把简介文案、统计区和歌曲内容统一放进一个 JSON 文件里。之后你只需要维护数据，不需要反复改 HTML 结构。"
+      "description": "本页面的所有可配置信息都存放在 data\\site-content.json文件中，更改对应的部分即可内容。我是简介，写我。"
     },
     "stats": {
       "title": "Quick stats",
@@ -59,6 +59,13 @@
       "artist": "椎名林檎",
       "language": "JP",
       "note": "幸福論 / 1999",
+      "tags": ["日语"]
+    },
+    {
+      "title": "我是歌名，在data\\site-content.json，中复制粘贴这一个块，并且修改信息，",
+      "artist": "我是作者，就可以加入新歌。或者让chat老师来完成这个工作",
+      "language": "JP",
+      "note": "我是note / 我是日期",
       "tags": ["日语"]
     }
   ]
