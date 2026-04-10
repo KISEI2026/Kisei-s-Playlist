@@ -61,8 +61,8 @@
         position: fixed;
         left: -25%;
         top: -25%;
-        width: 150%;
-        height: 150%;
+        width: 250%;
+        height: 250%;
         pointer-events: none;
         background-image: radial-gradient(
           circle,
@@ -70,6 +70,8 @@
           transparent 2.5px
         );
         background-size: 26px 26px;
+        transform: rotate(45deg);
+        transform-origin: center center;
         opacity: 0.7;
         z-index: 0;
       }
@@ -124,6 +126,7 @@
         top: 7%;
         width: 184px;
         height: 199px;
+        z-index: 1;
       }
 
       .patch-b {
@@ -148,12 +151,16 @@
       }
 
       .patch-e {
-        left: 11%;
+        left: 9%;
         top: 13%;
         width: 203px;
         height: 179px;
-        background: var(--blue-a) !important;
-        background-image: none !important;
+        background: var(--bg) !important;
+        background-image:
+          linear-gradient(var(--blue-a) 4px, transparent 1.5px),
+          linear-gradient(90deg, var(--blue-a) 4px, transparent 1.5px) !important;
+        background-size: 40px 40px !important;
+        background-position: 20px 30px !important;
       }
 
       .patch-f {
@@ -178,7 +185,7 @@
       }
 
       .patch-i {
-        right: 78%;
+        right: 80%;
         bottom: 12%;
         width: 202px;
         height: 246px;
