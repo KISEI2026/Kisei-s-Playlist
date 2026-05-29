@@ -6,16 +6,30 @@
     },
     "hero": {
       "eyebrow": "",
-      "titleLines": ["Kisei's", "Playlist"],
+      "titleLines": [
+        "Kisei's",
+        "Playlist"
+      ],
       "description": "这是辉星的PlayList。虽然也不维护。 \n✨BILIBILI主页：https://space.bilibili.com/453900186 \n✨舰长礼物进度群：241182033 \n✨直播通知群：893182284 \n✨3月舰礼地址收集：https://www.wjx.top/vm/PpPY2Px.aspx# 截止到4.20！"
     },
     "stats": {
       "title": "Quick stats",
       "badge": "",
       "items": [
-        { "label": "Total", "type": "all" },
-        { "label": "CN", "type": "language", "value": "CN" },
-        { "label": "JP", "type": "language", "value": "JP" }
+        {
+          "label": "Total",
+          "type": "all"
+        },
+        {
+          "label": "CN",
+          "type": "language",
+          "value": "CN"
+        },
+        {
+          "label": "JP",
+          "type": "language",
+          "value": "JP"
+        }
       ]
     },
     "liveEntry": {
@@ -30,7 +44,11 @@
     },
     "filters": {
       "allLabel": "全部",
-      "languageOrder": ["CN", "JP", "EN"],
+      "languageOrder": [
+        "CN",
+        "JP",
+        "EN"
+      ],
       "languageLabels": {
         "CN": "CN",
         "JP": "JP",
@@ -48,19 +66,1435 @@
   },
   "songs": [
     {
-      "title": "还没有维护",
+      "title": "勾指起誓",
       "artist": "KISEI",
       "language": "CN",
-      "note": "你才 / 2025",
-      "tags": ["各种", "tag", "都可以添加", "anthem"]
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
     },
     {
-      "title": "NEXT COLOR PLANET",
-      "artist": "星街すいせい",
+      "title": "难过233秒",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "Alice",
+      "artist": "KISEI",
       "language": "JP",
-      "note": "星街すいせい / NEXT COLOR PLANET",
-      "tags": ["日语"]
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "Bouquet",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "crack",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "GALLOWS BELL",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "GLOW",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "Just Be Friends",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "letter song",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "paranoia",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "piano lesson",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "rain stops,goodbye",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "shake it!",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "いかないで",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "からくりピエロ(活动小丑)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "なまえのないうた(无名之歌)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "ぼくらのレットイットビー",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "アイロニ",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "サリシノハラ(离去之原)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "ヨンジュナナ(四十七)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "ツギハギスタッカート(拼凑的断音)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "ハロ／ハワユ(hello/how are you)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "パズル(puzzle)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "ピアノ·レッスン(Piano Lesson)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "ピエロ(piero小丑)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "ミュージックミュージック(Music Music)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "上弦之月",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "东京夏日相会",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "会いたい(想见你)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "名前のない怪物",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "君が生まれた日",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "君の知らない物语",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "四季折之羽",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "天ノ弱",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "妄想税",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "孑然妒火",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "小夜子",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "弾けないギターを片手に。",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "心做し",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "星を渡る鳥",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "東京レトロ",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "爱言叶",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "福寿草",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "蛍",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "雨き声残響",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "音伪バナシ",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "夜明けと蛍",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "音偽バナシ",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "歌に形はないけれど",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "8月31日",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "アヤノの幸福理论",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "月光食堂",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "はなれ、ばなれ",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "たぶん",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "夜に駆ける",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "夜撫でるメノウ",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "幽霊東京",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "ただ君に晴れ",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "だから僕は音楽を辞めた",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "パレード",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "花に亡霊",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "太阳と向日葵",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "all alone with you",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "エウテルペ",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "この指とまれ",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "オトノナルホウヘ→",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "Hello,shooting-star",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "Lemon",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "灰色と青",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "ようかい体操第一",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "Secretbase~君がくれたもの",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "First Love",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "奏(かなで)",
+      "artist": "KISEI",
+      "language": "JP",
+      "note": "勾指起誓",
+      "tags": [
+        "日语"
+      ]
+    },
+    {
+      "title": "锦鲤抄",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "雨爱",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "带我走",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "我们的爱",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "Lydia",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "爱丫爱丫",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "如果可以",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "恋爱困难少女",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "三月雨",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "ring ring ring",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "店小二",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "寄明月",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "晓秋月明",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "樱花草",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "化身孤岛的鲸",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "马德里不思议",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "日不落",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "说爱你",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "舞娘",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "追光者",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "小半",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "虚拟",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "童话镇",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "心愿便利贴",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "永不失联的爱",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "我只在乎你",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "泡沫",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "一个像夏天一个像秋天",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "如果可以",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "鱼仔",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "荷塘月色",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "九万字",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "人间不值得",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "爱的魔法",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "小手拉大手",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "分手快乐",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "会呼吸的痛",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "可惜不是你",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "没有如果",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "暖暖",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "亲亲",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "情歌",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "大喜",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "普通Disco",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "我的歌声里",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "左手指月",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "花月成双",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "浮生未歇",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "不问天",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "克卜勒",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "绿光",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "天黑黑",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "我怀念的",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "遇见",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "小幸运",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "红豆",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "我多喜欢你，你会知道",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "爱的天灵灵",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "爱你",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "大眠",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "当你",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "睫毛弯弯",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "梦的光点",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "身骑白马",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "一样的月光",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "暧昧",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "雨爱",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "爱的供养",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "腐草为萤",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "锦鲤抄",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "棠梨煎雪",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "阿楚姑娘",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "欧若拉",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "隐形的翅膀",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "不能说的秘密",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "稻香",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "发如雪",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "告白气球",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "花海",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "龙卷风",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "七里香",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "甜甜的",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "阳光宅男",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "大鱼",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "乌梅子酱",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
+    },
+    {
+      "title": "风月",
+      "artist": "KISEI",
+      "language": "CN",
+      "note": "勾指起誓",
+      "tags": [
+        "中文"
+      ]
     }
-    
   ]
 }
